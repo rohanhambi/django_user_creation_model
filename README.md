@@ -1,0 +1,1 @@
+# django_user_creation_model
